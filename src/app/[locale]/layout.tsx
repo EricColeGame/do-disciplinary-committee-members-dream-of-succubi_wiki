@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = siteConfig.url;
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -26,10 +26,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     metadataBase: new URL(siteUrl),
     manifest: "/manifest.json",
     icons: { icon: ["/favicon-16x16.png", "/favicon-32x32.png"], apple: "/apple-touch-icon.png" },
-    title: { default: "VV: ULTIMATUM Wiki", template: "%s" },
-    description: "Complete VV: ULTIMATUM fan wiki with codes, bosses, builds, races, guides and progression walkthroughs.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    title: { default: "Do Disciplinary Committee Members Dream of Succubi Wiki", template: "%s" },
+    description: siteConfig.description,
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: siteConfig.name, description: siteConfig.description, images: [{ url: image, alt: siteConfig.name }] },
+    twitter: { card: "summary_large_image", title: siteConfig.name, description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }

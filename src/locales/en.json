@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Do Disciplinary Committee Members Dream of Succubi Wiki",
+    "shortName": "Do Disciplinary Committee Members Dream of Succubi",
+    "tagline": "Characters, Story, Gameplay & Guides",
+    "description": "A fan-made guide to Milky Way's demon-pact RPG, localised by Kagura Games, covering Iroha, Lily, the Dream Corridor, combat and progression.",
+    "legalNotice": "Unofficial fan wiki. Not affiliated with Milky Way or Kagura Games."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Adult RPG · Kagura Games",
+      "title": "Do Disciplinary Committee Members Dream of Succubi Wiki",
+      "description": "Do Disciplinary Committee Members Dream of Succubi is Milky Way's demon-pact RPG, localised by Kagura Games: by day Iroha patrols the city, by night she fights through the Dream Corridor as a part-succubus.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "30K+ DLsite Sales",
+        "4.78/5 DLsite Rating",
+        "124 Steam Reviews",
+        "English Release: Oct 8, 2026"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Play on Steam",
+      "secondaryCta": "Beginner Guide",
+      "tertiaryCta": "About the Game",
+      "videoLabel": "Official Kagura Games trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master the Dream Corridor?",
+      "description": "Follow Iroha and Lily through the demon-pact story with clear character notes, combat tips, progression advice and verified Steam links.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "View on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Do Disciplinary Committee Members Dream of Succubi Wiki",
+    "about": "Do Disciplinary Committee Members Dream of Succubi Wiki is an independent fan-built guide hub covering Iroha, Lily, the Dream Corridor, combat systems, story routes and progression for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Do Disciplinary Committee Members Dream of Succubi Wiki. Not affiliated with Milky Way or Kagura Games.",
+    "description": "Milky Way's demon-pact RPG, localised by Kagura Games. Explore Iroha, Lily, the Dream Corridor, combat and progression.",
+    "playGame": "Play on Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Kagura Games YouTube",
+    "vvBuilder": "Kagura Games Official Site",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
