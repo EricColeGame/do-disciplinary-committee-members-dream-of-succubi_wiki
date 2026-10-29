@@ -1,0 +1,14 @@
+{
+  "name": "do-disciplinary-committee-members-dream-of-succubi-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "do-disciplinary-committee-members-dream-of-succubi.wiki",
+      "custom_domain": true
+    }
+  ]
+}
