@@ -36,6 +36,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@KaguraGames",
     twitter: "https://x.com/KaguraGames",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "ko", "es"],
   defaultLocale: "en",
 };
