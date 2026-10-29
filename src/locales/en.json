@@ -13,8 +13,8 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Do Disciplinary Committee Members Dream of Succubi Wiki — Story, Combat & Endings",
+      "description": "Complete fan guide to Milky Way's demon-pact RPG: Iroha, Lily, the day/night loop, Dream Corridor combat, Charm progression and all endings."
     },
     "hero": {
       "eyebrow": "Adult RPG · Kagura Games",
@@ -38,265 +38,337 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Do Disciplinary Committee Members Dream of Succubi Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the day/night loop, patrols, seminars, jobs, Charm and the first steps through Iroha's pact story."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Train in Ligo's Dream Corridor, learn how skills and equipment work, and prepare for Chosen duels."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Charm & Skills",
+          "description": "Connect daytime activities, puzzle stat boosts and work-funded equipment into one steady progression plan."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Character Guide",
+          "description": "Meet Iroha, Lily, Yuno, Nashi and the Chosen before following the story's hidden rival reveals."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Day/Night Loop",
+        "Dream Corridor",
+        "Charm & Skills",
+        "All Endings"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "A balanced first run through patrols, seminars, jobs, Charm, equipment and the Dream Corridor.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Cast",
+          "title": "Characters Guide",
+          "description": "Iroha, Lily, Yuno, Nashi and the Chosen, with each role in the pact story.",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Combat",
+          "title": "Combat Guide",
+          "description": "Dream Corridor training, Chosen duels, defeat routes and practical preparation.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Story",
+          "title": "All Endings",
+          "description": "The two winning memory branches and the final-battle loss ending.",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Release",
+          "title": "Release Date",
+          "description": "The Japanese PC launch, English Steam release and storefront dates.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-release-date"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Official",
+          "title": "Download Guide",
+          "description": "Steam, DLsite, the separate Japanese mobile edition and the official patch.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Do Disciplinary Committee Members Dream of Succubi?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Do Disciplinary Committee Members Dream of Succubi is Milky Way's adults-only RPG, localised in English by Kagura Games. Iroha Himeno is a straight-laced disciplinary committee member who meets the succubus Lily on patrol and accepts a Pact that makes her part succubus.",
+        "By day, Iroha patrols the city, attends seminars, works jobs and solves puzzles to build skills, money and Charm. By night, she visits the succubus town of Ligo and trains in the Dream Corridor before facing the Chosen in a demonic proxy war. Our wiki maps the loop, cast, combat and endings."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Milky Way"
+        },
+        {
+          "label": "Publisher",
+          "value": "Kagura Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows via Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "RPG Maker MV RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release",
+          "value": "Oct 8, 2026"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Playtime",
+          "value": "About 25 hours"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Languages",
+          "value": "English, Japanese, Simplified Chinese"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Do Disciplinary Committee Members Dream of Succubi Wiki",
+      "description": "Follow the day/night loop from Iroha's first patrol to the final Chosen battle, with character notes, combat preparation, progression systems and ending routes.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Do Disciplinary Committee Members Dream of Succubi Gameplay Guide",
+          "description": "Understand the core loop: daytime patrols, seminars and jobs feed skills, money and Charm, while nighttime Dream Corridor battles build combat strength.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Patrol the city, attend seminars and take jobs during the day."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Use work earnings to buy stronger equipment."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Solve available puzzles for direct stat boosts."
+            },
+            {
+              "label": "4",
+              "detail": "Train in Ligo's Dream Corridor at night."
+            },
+            {
+              "label": "5",
+              "detail": "Track the hidden Chosen and save before major duels."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Do Disciplinary Committee Members Dream of Succubi Characters Guide",
+          "description": "Meet Iroha, Lily, Yuno, Nashi and the Chosen, with their roles in the pact, the city and the demonic proxy war.",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Iroha",
+              "detail": "Protagonist and disciplinary committee member who becomes part succubus through Lily's Pact."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Lily",
+              "detail": "Succubus recruiter who scouts humans for the demons' proxy war."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Yuno",
+              "detail": "Iroha's best friend, now responsible for her parents' shrine and its debt."
+            },
+            {
+              "label": "Nashi",
+              "detail": "Brilliant student of low standing who becomes a target of bullying."
+            },
+            {
+              "label": "Chosen",
+              "detail": "Humans who made pacts with demons and serve as Iroha's hidden rivals."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Do Disciplinary Committee Members Dream of Succubi Combat Guide",
+          "description": "Prepare for Dream Corridor training and Chosen duels by linking skills, equipment, puzzles and Charm to the battle system.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Train against sukemon in the Dream Corridor to learn skills, items and equipment."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Keep gear current with money earned from daytime jobs."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Learn new abilities through seminars and daytime experience."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Complete stat-boosting puzzles before story battles."
+            },
+            {
+              "label": "5",
+              "detail": "Save before a Chosen duel; losing opens a defeat route instead of a game over."
+            },
+            {
+              "label": "6",
+              "detail": "Save before the final battle to explore both winning choices and the loss ending."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Do Disciplinary Committee Members Dream of Succubi Skills and Stats",
+          "description": "Plan Iroha's growth across Charm, skills, puzzle boosts and equipment, the four progression channels described for the game.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-game-mechanics",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Charm",
+              "detail": "Raised through work, training and other activities; no published cap or ending threshold."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Skills",
+              "detail": "Daytime experience teaches new abilities that expand combat options."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Stats",
+              "detail": "Puzzles provide direct stat boosts outside battle."
+            },
+            {
+              "label": "Gear",
+              "detail": "Work earnings buy powerful new equipment; check the shop before grinding."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Do Disciplinary Committee Members Dream of Succubi Items Guide",
+          "description": "Track the resources that matter: work income, equipment purchases, puzzle rewards and the skills that support combat.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-tips",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Equipment — money from jobs buys powerful new gear; check it before assuming you need to grind."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Job Cash — daytime work funds the equipment upgrades that support Chosen battles."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Puzzles — rewards add stat boosts and are worth completing when available."
+            },
+            {
+              "label": "C",
+              "detail": "Seminars — daytime experience helps Iroha learn new combat skills."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Do Disciplinary Committee Members Dream of Succubi Beginner Guide",
+          "description": "Start with a balanced first run: explore the city, build Charm, fund equipment, train at night and keep manual saves.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Day Loop",
+              "detail": "Patrol, attend seminars and work jobs; then train in Ligo's Dream Corridor at night."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Charm",
+              "detail": "Raise Charm through work, training and activities as Iroha's demonic side grows."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Saves",
+              "detail": "Keep manual saves before major Chosen encounters to preserve both win and loss routes."
+            },
+            {
+              "label": "Gallery",
+              "detail": "Leave full recollection-room completion until after the first clear."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Do Disciplinary Committee Members Dream of Succubi Story and Endings",
+          "description": "Follow the pact, the hidden Chosen and the final choice between memory erasure, memory retention and the loss ending.",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pact",
+              "detail": "Lily's bargain makes Iroha part succubus and draws her into the demons' proxy war."
+            },
+            {
+              "label": "Chosen",
+              "detail": "Iroha must uncover the identities of rival Pact-holders before their duels."
+            },
+            {
+              "label": "Memory",
+              "detail": "Winning the final battle opens a post-victory choice between memory erasure and memory retention."
+            },
+            {
+              "label": "Defeat",
+              "detail": "Losing the final battle leads to ED03, the third ending event."
+            },
+            {
+              "label": "Gallery",
+              "detail": "The recollection room cannot be fully unlocked before clearing the game."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Do Disciplinary Committee Members Dream of Succubi Release and Download Info",
+          "description": "Check the official English and Japanese storefronts, the separate mobile edition, the patch and the Windows system requirements.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "English Windows release, app 4233960, with English, Japanese and Simplified Chinese support."
+            },
+            {
+              "label": "DLsite",
+              "detail": "Japanese PC original RJ01241743, released May 4, 2025."
+            },
+            {
+              "label": "Mobile",
+              "detail": "Separate Japanese iOS and Android edition, DLsite RJ01398608."
+            },
+            {
+              "label": "Patch",
+              "detail": "Kagura Games v1.05 patch for owners; it is not the base game."
             }
           ]
         }
@@ -304,33 +376,37 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers about Do Disciplinary Committee Members Dream of Succubi, its cast, day/night loop, combat and endings.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Do Disciplinary Committee Members Dream of Succubi?",
+          "answer": "It is Milky Way's adults-only RPG, localised by Kagura Games. Iroha Himeno accepts a Pact from the succubus Lily, becomes part succubus, and must fight the Chosen in a demonic proxy war."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Who are the main characters in Do Disciplinary Committee Members Dream of Succubi?",
+          "answer": "Iroha Himeno is the protagonist, Lily is the succubus Pact-maker, Yuno Aiba is Iroha's best friend, Nashi Okane is a bullied student, and the Chosen are humans who made pacts with demons."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How does the day/night loop work in Do Disciplinary Committee Members Dream of Succubi?",
+          "answer": "Daytime is for patrols, seminars, jobs, puzzles and city exploration, which build skills, money and Charm. At night, Iroha travels to Ligo and trains in the Dream Corridor."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can you lose a fight in Do Disciplinary Committee Members Dream of Succubi?",
+          "answer": "Yes. Losing to a Chosen opens a defeat route instead of a standard game over. At the final battle, losing leads to ED03, so keep a save before the fight."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can you play Do Disciplinary Committee Members Dream of Succubi?",
+          "answer": "The English release is Steam app 4233960 for Windows. The Japanese PC original is DLsite RJ01241743, and a separate Japanese iOS/Android edition is RJ01398608. There is no official English APK or free full download."
+        },
+        {
+          "question": "How long is Do Disciplinary Committee Members Dream of Succubi?",
+          "answer": "DLsite lists roughly 25 hours of play, with the total varying according to how many optional scenes and recollection-room entries you collect."
         }
       ]
     },
     "finalCta": {
       "title": "Ready to Master the Dream Corridor?",
-      "description": "Follow Iroha and Lily through the demon-pact story with clear character notes, combat tips, progression advice and verified Steam links.",
+      "description": "Follow Iroha and Lily through the demon-pact story with character notes, combat tips, progression advice and official Steam links.",
       "primary": "Read the Beginner Guide",
       "secondary": "View on Steam"
     }
