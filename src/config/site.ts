@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Do Disciplinary Committee Members Dream of Succubi Wiki",
+  shortName: "Do Disciplinary Committee Members Dream of Succubi",
+  logoText: "D",
+  tagline: "Characters, Story, Gameplay & Guides",
+  description: "A fan-made guide to Milky Way's demon-pact RPG, localised by Kagura Games, covering Iroha, Lily, the Dream Corridor, combat and progression.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://do-disciplinary-committee-members-dream-of-succubi.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://do-disciplinary-committee-members-dream-of-succubi.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/4233960/Do_Disciplinary_Committee_Members_Dream_of_Succubi/",
+  heroVideoId: "TCO-SOJs13E", // Official Kagura Games trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/kaguragames",
+    twitter: "https://x.com/KaguraGames",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
