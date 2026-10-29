@@ -1,1 +1,481 @@
-{}
+{
+  "site": {
+    "name": "風紀委員はサキュバスの夢を見るか？ Wiki",
+    "shortName": "風紀委員はサキュバスの夢を見るか？",
+    "tagline": "キャラクター・ストーリー・ゲームプレイ・攻略",
+    "description": "Kagura GamesがローカライズしたMilky Wayの悪魔契約RPGを扱うファンメイドガイド。イロハ、リリィ、夢の回廊、戦闘、成長要素を解説します。",
+    "legalNotice": "非公式ファンWikiです。Milky WayおよびKagura Gamesとは関係ありません。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える",
+    "guide": "攻略",
+    "mechanics": "ゲームシステム",
+    "characters": "キャラクター",
+    "endings": "エンディング",
+    "music": "音楽",
+    "reviews": "レビュー"
+  },
+  "home": {
+    "meta": {
+      "title": "風紀委員はサキュバスの夢を見るか？ Wiki — ストーリー・戦闘・エンディング",
+      "description": "Milky Wayの悪魔契約RPG完全ファンガイド。イロハ、リリィ、昼夜ループ、夢の回廊の戦闘、魅力の成長、すべてのエンディングを解説。"
+    },
+    "hero": {
+      "eyebrow": "成人向けRPG · Kagura Games",
+      "title": "風紀委員はサキュバスの夢を見るか？ Wiki",
+      "description": "『風紀委員はサキュバスの夢を見るか？』はKagura GamesがローカライズしたMilky Wayの悪魔契約RPG。昼はイロハが街を巡回し、夜は半サキュバスとして夢の回廊で戦います。",
+      "stats": [
+        "DLsite販売数3万本以上",
+        "DLsite評価4.78/5",
+        "Steamレビュー124件",
+        "英語版リリース：2026年10月8日"
+      ],
+      "primaryCta": "Steamでプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "ゲームについて",
+      "videoLabel": "Kagura Games公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "『風紀委員はサキュバスの夢を見るか？』の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "昼夜ループ、巡回、セミナー、仕事、魅力、そしてイロハの契約物語の最初の一歩を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "戦闘の基本",
+          "description": "リゴの夢の回廊で訓練し、スキルと装備の仕組みを学び、選ばれし者との決闘に備えます。"
+        },
+        {
+          "number": "3",
+          "title": "魅力とスキル",
+          "description": "昼の活動、パズルの能力上昇、仕事で得た資金による装備を、一つの安定した成長計画につなげます。"
+        },
+        {
+          "number": "4",
+          "title": "キャラクターガイド",
+          "description": "物語の隠されたライバルが明かされる前に、イロハ、リリィ、ユノ、ナシ、選ばれし者たちを紹介します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目のガイド",
+      "quickLinks": [
+        "昼夜ループ",
+        "夢の回廊",
+        "魅力とスキル",
+        "すべてのエンディング"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "巡回、セミナー、仕事、魅力、装備、夢の回廊をバランスよく進める初回プレイ。",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide"
+        },
+        {
+          "badge": "キャスト",
+          "title": "キャラクターガイド",
+          "description": "契約物語におけるイロハ、リリィ、ユノ、ナシ、選ばれし者それぞれの役割。",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters"
+        },
+        {
+          "badge": "戦闘",
+          "title": "戦闘ガイド",
+          "description": "夢の回廊での訓練、選ばれし者との決闘、敗北ルート、実践的な準備。",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat"
+        },
+        {
+          "badge": "ストーリー",
+          "title": "すべてのエンディング",
+          "description": "2つの勝利後の記憶分岐と、最終戦敗北のエンディング。",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings"
+        },
+        {
+          "badge": "リリース",
+          "title": "発売日",
+          "description": "日本語PC版の発売、英語Steam版のリリース、各ストアの日付。",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-release-date"
+        },
+        {
+          "badge": "公式",
+          "title": "ダウンロードガイド",
+          "description": "Steam、DLsite、別リリースの日本語モバイル版、公式パッチ。",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "『風紀委員はサキュバスの夢を見るか？』とは？",
+      "paragraphs": [
+        "『風紀委員はサキュバスの夢を見るか？』は、Kagura Gamesが英語ローカライズしたMilky Wayの成人向けRPGです。堅物な風紀委員・姫野いろはは、巡回中にサキュバスのリリィと出会い、半サキュバスになる契約を受け入れます。",
+        "昼間、イロハは街を巡回し、セミナーに参加し、仕事をこなし、パズルを解いてスキル、資金、魅力を高めます。夜はサキュバスの街リゴを訪れ、夢の回廊で訓練してから、悪魔の代理戦争で選ばれし者と対峙します。当Wikiではループ、キャスト、戦闘、エンディングを整理しています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Milky Way"
+        },
+        {
+          "label": "販売元",
+          "value": "Kagura Games"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Windows（Steam）"
+        },
+        {
+          "label": "ジャンル",
+          "value": "RPG Maker MV製RPG"
+        },
+        {
+          "label": "発売日",
+          "value": "2026年10月8日"
+        },
+        {
+          "label": "プレイ時間",
+          "value": "約25時間"
+        },
+        {
+          "label": "言語",
+          "value": "英語・日本語・簡体字中国語"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "『風紀委員はサキュバスの夢を見るか？』Wikiを探索",
+      "description": "イロハの最初の巡回から最後の選ばれし者との戦いまで、キャラクター情報、戦闘準備、成長システム、エンディングルートとともに昼夜ループを追います。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "『風紀委員はサキュバスの夢を見るか？』ゲームプレイガイド",
+          "description": "核となるループを理解しましょう。昼の巡回、セミナー、仕事がスキル、資金、魅力を育て、夜の夢の回廊の戦闘が戦闘力を高めます。",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "昼間に街を巡回し、セミナーに参加して仕事をこなす。"
+            },
+            {
+              "label": "2",
+              "detail": "仕事の報酬でより強い装備を買う。"
+            },
+            {
+              "label": "3",
+              "detail": "利用できるパズルを解き、能力を直接上げる。"
+            },
+            {
+              "label": "4",
+              "detail": "夜はリゴの夢の回廊で訓練する。"
+            },
+            {
+              "label": "5",
+              "detail": "隠れた選ばれし者を追い、主要な決闘の前にセーブする。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "『風紀委員はサキュバスの夢を見るか？』キャラクターガイド",
+          "description": "契約、街、悪魔の代理戦争における役割とともに、イロハ、リリィ、ユノ、ナシ、選ばれし者を紹介します。",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "イロハ",
+              "detail": "主人公。リリィとの契約により半サキュバスになる風紀委員。"
+            },
+            {
+              "label": "リリィ",
+              "detail": "悪魔の代理戦争のために人間を勧誘するサキュバス。"
+            },
+            {
+              "label": "ユノ",
+              "detail": "イロハの親友。現在は両親の神社とその借金を背負っている。"
+            },
+            {
+              "label": "ナシ",
+              "detail": "立場は低いが優秀な生徒で、いじめの標的になる。"
+            },
+            {
+              "label": "選ばれし者",
+              "detail": "悪魔と契約し、イロハの隠れたライバルとなる人間たち。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "『風紀委員はサキュバスの夢を見るか？』戦闘ガイド",
+          "description": "スキル、装備、パズル、魅力を戦闘システムに結びつけ、夢の回廊での訓練と選ばれし者との決闘に備えます。",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "夢の回廊でスケモンと戦い、スキル、アイテム、装備を学ぶ。"
+            },
+            {
+              "label": "2",
+              "detail": "昼の仕事で得た資金を使い、装備を最新に保つ。"
+            },
+            {
+              "label": "3",
+              "detail": "セミナーと昼の経験で新しい能力を覚える。"
+            },
+            {
+              "label": "4",
+              "detail": "ストーリー戦の前に能力強化パズルを完了する。"
+            },
+            {
+              "label": "5",
+              "detail": "選ばれし者との決闘前にセーブする。敗北するとゲームオーバーではなく敗北ルートが開く。"
+            },
+            {
+              "label": "6",
+              "detail": "最終戦の前にセーブし、両方の勝利時の選択と敗北エンディングを確認する。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "『風紀委員はサキュバスの夢を見るか？』スキルとステータス",
+          "description": "魅力、スキル、パズルによる強化、装備という4つの成長経路を通して、イロハの成長を計画します。",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-game-mechanics",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "魅力",
+              "detail": "仕事、訓練、その他の活動で上がる。公表された上限やエンディング条件はない。"
+            },
+            {
+              "label": "スキル",
+              "detail": "昼の経験で新しい能力を覚え、戦闘の選択肢が広がる。"
+            },
+            {
+              "label": "ステータス",
+              "detail": "パズルは戦闘外で直接ステータスを強化する。"
+            },
+            {
+              "label": "装備",
+              "detail": "仕事の報酬で強力な新装備を買える。周回前にショップを確認する。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "『風紀委員はサキュバスの夢を見るか？』アイテムガイド",
+          "description": "仕事の収入、装備購入、パズル報酬、戦闘を支えるスキルなど、重要なリソースを追います。",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "装備 — 仕事の資金で強力な新装備を買える。周回が必要だと決めつける前にショップを確認。"
+            },
+            {
+              "label": "A",
+              "detail": "仕事の現金 — 昼の仕事が、選ばれし者との戦いを支える装備強化の資金になる。"
+            },
+            {
+              "label": "B",
+              "detail": "パズル — 報酬でステータスが上がるため、利用できるときは完了する価値がある。"
+            },
+            {
+              "label": "C",
+              "detail": "セミナー — 昼の経験がイロハの新しい戦闘スキル習得を助ける。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "『風紀委員はサキュバスの夢を見るか？』初心者ガイド",
+          "description": "街を探索し、魅力を高め、装備資金を稼ぎ、夜に訓練し、手動セーブを欠かさないバランス型の初回プレイ。",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "昼のループ",
+              "detail": "巡回、セミナー、仕事をこなし、夜はリゴの夢の回廊で訓練する。"
+            },
+            {
+              "label": "魅力",
+              "detail": "イロハの悪魔的な側面が育つ中、仕事、訓練、活動を通して魅力を上げる。"
+            },
+            {
+              "label": "セーブ",
+              "detail": "主要な選ばれし者との遭遇前に手動セーブし、勝利ルートと敗北ルートの両方を残す。"
+            },
+            {
+              "label": "ギャラリー",
+              "detail": "回想部屋の完全回収は初回クリア後まで待つ。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "『風紀委員はサキュバスの夢を見るか？』ストーリーとエンディング",
+          "description": "契約、隠れた選ばれし者、記憶消去・記憶保持・敗北エンディングの最終選択を追います。",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "契約",
+              "detail": "リリィの取引によりイロハは半サキュバスになり、悪魔の代理戦争に引き込まれる。"
+            },
+            {
+              "label": "選ばれし者",
+              "detail": "イロハは決闘の前に、敵対する契約者の正体を突き止めなければならない。"
+            },
+            {
+              "label": "記憶",
+              "detail": "最終戦に勝つと、記憶消去と記憶保持のどちらかを選ぶ展開になる。"
+            },
+            {
+              "label": "敗北",
+              "detail": "最終戦に負けると、3番目のエンディングイベントであるED03につながる。"
+            },
+            {
+              "label": "ギャラリー",
+              "detail": "回想部屋はゲームクリア前には完全解放できない。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "『風紀委員はサキュバスの夢を見るか？』発売・ダウンロード情報",
+          "description": "公式の英語版・日本語版ストア、別リリースのモバイル版、パッチ、Windowsの動作環境を確認します。",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "英語版Windowsリリース、アプリ4233960。英語、日本語、簡体字中国語に対応。"
+            },
+            {
+              "label": "DLsite",
+              "detail": "日本語PC原作 RJ01241743、2025年5月4日発売。"
+            },
+            {
+              "label": "モバイル",
+              "detail": "別リリースの日本語iOS・Android版、DLsite RJ01398608。"
+            },
+            {
+              "label": "パッチ",
+              "detail": "購入者向けKagura Games v1.05パッチ。本体ゲームではない。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "『風紀委員はサキュバスの夢を見るか？』のキャスト、昼夜ループ、戦闘、エンディングについての簡単な回答。",
+      "items": [
+        {
+          "question": "『風紀委員はサキュバスの夢を見るか？』とは何ですか？",
+          "answer": "Kagura GamesがローカライズしたMilky Wayの成人向けRPGです。姫野いろははサキュバス・リリィから契約を受け、半サキュバスとなり、悪魔の代理戦争で選ばれし者と戦わなければなりません。"
+        },
+        {
+          "question": "主なキャラクターは誰ですか？",
+          "answer": "主人公は姫野いろは、サキュバスで契約を結ぶリリィ、親友のユノ・アイバ、いじめを受ける生徒ナシ・オカネ、そして悪魔と契約した人間である選ばれし者たちです。"
+        },
+        {
+          "question": "昼夜ループはどのように進みますか？",
+          "answer": "昼は巡回、セミナー、仕事、パズル、街の探索を行い、スキル、資金、魅力を高めます。夜はイロハがリゴへ行き、夢の回廊で訓練します。"
+        },
+        {
+          "question": "戦闘で敗北することはありますか？",
+          "answer": "はい。選ばれし者に負けると、通常のゲームオーバーではなく敗北ルートが開きます。最終戦で負けるとED03につながるため、戦闘前にセーブしておきましょう。"
+        },
+        {
+          "question": "どこでプレイできますか？",
+          "answer": "英語版はWindows向けSteamアプリ4233960です。日本語PC原作はDLsite RJ01241743、別リリースの日本語iOS/Android版はRJ01398608です。公式の英語APKや無料の完全版ダウンロードはありません。"
+        },
+        {
+          "question": "プレイ時間はどのくらいですか？",
+          "answer": "DLsiteには約25時間と記載されています。任意のシーンや回想部屋の項目をどれだけ回収するかによって変わります。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "夢の回廊を極める準備はできましたか？",
+      "description": "キャラクター情報、戦闘のコツ、成長のアドバイス、公式Steamリンクとともに、イロハとリリィの悪魔契約の物語を追いましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamで見る"
+    }
+  },
+  "guide": {
+    "overviewTitle": "『風紀委員はサキュバスの夢を見るか？』ガイド",
+    "overviewDescription": "イロハとリリィの悪魔契約の物語について、初心者向け案内、攻略、操作方法、ルート計画、エンディングのアドバイス。"
+  },
+  "mechanics": {
+    "overviewTitle": "『風紀委員はサキュバスの夢を見るか？』ゲームシステム",
+    "overviewDescription": "悪魔契約RPGの戦闘システム、選ばれし者との戦い、難易度、選択、夢の回廊のループを解説。"
+  },
+  "characters": {
+    "overviewTitle": "『風紀委員はサキュバスの夢を見るか？』キャラクター",
+    "overviewDescription": "姫野いろは、リリィ、選ばれし者、悪魔の代理戦争に巻き込まれた生徒たちのプロフィール。"
+  },
+  "endings": {
+    "overviewTitle": "『風紀委員はサキュバスの夢を見るか？』エンディング",
+    "overviewDescription": "イロハの物語における記憶、トゥルー、ノーマル、敗北エンディングの分岐比較とルート情報。"
+  },
+  "music": {
+    "overviewTitle": "『風紀委員はサキュバスの夢を見るか？』音楽",
+    "overviewDescription": "タイトルテーマ、別れの曲、公開されている公式音源など、ゲームのサウンドトラックを紹介。"
+  },
+  "reviews": {
+    "overviewTitle": "『風紀委員はサキュバスの夢を見るか？』レビュー",
+    "overviewDescription": "レビュー、ゲームプレイの感想、Steamでの反響、トレーラー、ダウンロード情報。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "startHere": "はじめに",
+    "startHereText": "夢の回廊は初めてですか？最初の選ばれし者との決闘の前に、昼夜ループ、魅力、戦闘の基本を学びましょう。",
+    "browseGuides": "ガイドを見る",
+    "updated": "更新日",
+    "playOnRoblox": "Steamでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "風紀委員はサキュバスの夢を見るか？ Wiki",
+    "about": "『風紀委員はサキュバスの夢を見るか？』Wikiは、イロハ、リリィ、夢の回廊、戦闘システム、ストーリールート、成長要素を扱う独立したファンメイドのガイドハブです。新規プレイヤーにも経験者にも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 『風紀委員はサキュバスの夢を見るか？』Wiki。Milky WayおよびKagura Gamesとは関係ありません。",
+    "description": "Kagura GamesがローカライズしたMilky Wayの悪魔契約RPG。イロハ、リリィ、夢の回廊、戦闘、成長要素を探索。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "Steamコミュニティ",
+    "officialYoutube": "Kagura Games YouTube",
+    "vvBuilder": "Kagura Games公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "characterGuides": "キャラクターガイド",
+    "mechanicsGuides": "ゲームシステムガイド",
+    "endingGuides": "エンディングガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

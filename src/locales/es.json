@@ -1,1 +1,481 @@
-{}
+{
+  "site": {
+    "name": "Wiki de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "shortName": "¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "tagline": "Personajes, historia, jugabilidad y guías",
+    "description": "Guía fan del RPG de pactos demoníacos de Milky Way, localizado por Kagura Games, con Iroha, Lily, el Corredor de los Sueños, combate y progresión.",
+    "legalNotice": "Wiki fan no oficial. Sin afiliación con Milky Way ni Kagura Games."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "endings": "Finales",
+    "music": "Música",
+    "reviews": "Reseñas"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de ¿Los miembros del comité disciplinario sueñan con súcubos? — Historia, combate y finales",
+      "description": "Guía fan completa del RPG de pactos demoníacos de Milky Way: Iroha, Lily, el ciclo día/noche, el combate en el Corredor de los Sueños, la progresión de Encanto y todos los finales."
+    },
+    "hero": {
+      "eyebrow": "RPG para adultos · Kagura Games",
+      "title": "Wiki de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+      "description": "¿Los miembros del comité disciplinario sueñan con súcubos? es el RPG de pactos demoníacos de Milky Way, localizado por Kagura Games: de día Iroha patrulla la ciudad; de noche lucha en el Corredor de los Sueños como parte súcubo.",
+      "stats": [
+        "Más de 30 000 ventas en DLsite",
+        "Valoración de 4,78/5 en DLsite",
+        "124 reseñas en Steam",
+        "Lanzamiento en inglés: 8 de octubre de 2026"
+      ],
+      "primaryCta": "Jugar en Steam",
+      "secondaryCta": "Guía para principiantes",
+      "tertiaryCta": "Sobre el juego",
+      "videoLabel": "Tráiler oficial de Kagura Games"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por ¿Los miembros del comité disciplinario sueñan con súcubos?",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el ciclo día/noche, las patrullas, los seminarios, los trabajos, el Encanto y los primeros pasos de la historia del Pacto de Iroha."
+        },
+        {
+          "number": "2",
+          "title": "Fundamentos del combate",
+          "description": "Entrena en el Corredor de los Sueños de Ligo, descubre cómo funcionan las habilidades y el equipo y prepárate para los duelos contra los Elegidos."
+        },
+        {
+          "number": "3",
+          "title": "Encanto y habilidades",
+          "description": "Conecta las actividades diurnas, las mejoras de estadísticas de los puzles y el equipo financiado con tu trabajo en un plan de progresión constante."
+        },
+        {
+          "number": "4",
+          "title": "Guía de personajes",
+          "description": "Conoce a Iroha, Lily, Yuno, Nashi y los Elegidos antes de descubrir a los rivales ocultos de la historia."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías destacadas",
+      "quickLinks": [
+        "Ciclo día/noche",
+        "Corredor de los Sueños",
+        "Encanto y habilidades",
+        "Todos los finales"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Una primera partida equilibrada entre patrullas, seminarios, trabajos, Encanto, equipo y el Corredor de los Sueños.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide"
+        },
+        {
+          "badge": "Reparto",
+          "title": "Guía de personajes",
+          "description": "Iroha, Lily, Yuno, Nashi y los Elegidos, con el papel de cada uno en la historia del Pacto.",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters"
+        },
+        {
+          "badge": "Combate",
+          "title": "Guía de combate",
+          "description": "Entrenamiento en el Corredor de los Sueños, duelos contra los Elegidos, rutas de derrota y preparación práctica.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat"
+        },
+        {
+          "badge": "Historia",
+          "title": "Todos los finales",
+          "description": "Las dos ramas de la memoria tras ganar y el final de derrota en la batalla final.",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings"
+        },
+        {
+          "badge": "Lanzamiento",
+          "title": "Fecha de lanzamiento",
+          "description": "El lanzamiento japonés para PC, la versión inglesa en Steam y las fechas de las tiendas.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-release-date"
+        },
+        {
+          "badge": "Oficial",
+          "title": "Guía de descarga",
+          "description": "Steam, DLsite, la edición móvil japonesa independiente y el parche oficial.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "«¿Los miembros del comité disciplinario sueñan con súcubos?»: qué es el juego",
+      "paragraphs": [
+        "¿Los miembros del comité disciplinario sueñan con súcubos? es el RPG para adultos de Milky Way, localizado al inglés por Kagura Games. Iroha Himeno es una estricta miembro del comité disciplinario que conoce a la súcubo Lily durante una patrulla y acepta un Pacto que la convierte en parte súcubo.",
+        "De día, Iroha patrulla la ciudad, asiste a seminarios, hace trabajos y resuelve puzles para mejorar sus habilidades, su dinero y su Encanto. De noche, visita la ciudad súcubo de Ligo y entrena en el Corredor de los Sueños antes de enfrentarse a los Elegidos en una guerra indirecta entre demonios. Nuestra wiki organiza el ciclo, el reparto, el combate y los finales."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Milky Way"
+        },
+        {
+          "label": "Editor",
+          "value": "Kagura Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows mediante Steam"
+        },
+        {
+          "label": "Género",
+          "value": "RPG de RPG Maker MV"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "8 de octubre de 2026"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 25 horas"
+        },
+        {
+          "label": "Idiomas",
+          "value": "Inglés, japonés y chino simplificado"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+      "description": "Sigue el ciclo día/noche desde la primera patrulla de Iroha hasta la batalla final contra los Elegidos, con notas de personajes, preparación de combate, sistemas de progresión y rutas de finales.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de jugabilidad de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Comprende el ciclo principal: las patrullas, los seminarios y los trabajos diurnos alimentan habilidades, dinero y Encanto, mientras los combates nocturnos en el Corredor de los Sueños aumentan la fuerza de combate.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Patrulla la ciudad, asiste a seminarios y acepta trabajos durante el día."
+            },
+            {
+              "label": "2",
+              "detail": "Usa las ganancias del trabajo para comprar equipo más fuerte."
+            },
+            {
+              "label": "3",
+              "detail": "Resuelve los puzles disponibles para obtener mejoras directas de estadísticas."
+            },
+            {
+              "label": "4",
+              "detail": "Entrena en el Corredor de los Sueños de Ligo por la noche."
+            },
+            {
+              "label": "5",
+              "detail": "Localiza a los Elegidos ocultos y guarda antes de los duelos importantes."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de personajes de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Conoce a Iroha, Lily, Yuno, Nashi y los Elegidos, con sus papeles en el Pacto, la ciudad y la guerra indirecta entre demonios.",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Iroha",
+              "detail": "Protagonista y miembro del comité disciplinario que se convierte en parte súcubo mediante el Pacto de Lily."
+            },
+            {
+              "label": "Lily",
+              "detail": "Súcubo reclutadora que busca humanos para la guerra indirecta de los demonios."
+            },
+            {
+              "label": "Yuno",
+              "detail": "La mejor amiga de Iroha, ahora responsable del santuario de sus padres y de su deuda."
+            },
+            {
+              "label": "Nashi",
+              "detail": "Estudiante brillante de bajo estatus que se convierte en blanco de acoso."
+            },
+            {
+              "label": "Elegidos",
+              "detail": "Humanos que hicieron pactos con demonios y actúan como rivales ocultos de Iroha."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de combate de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Prepárate para el entrenamiento en el Corredor de los Sueños y los duelos contra los Elegidos relacionando habilidades, equipo, puzles y Encanto con el sistema de combate.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Entrena contra sukemon en el Corredor de los Sueños para aprender habilidades, objetos y equipo."
+            },
+            {
+              "label": "2",
+              "detail": "Mantén el equipo al día con el dinero ganado en los trabajos diurnos."
+            },
+            {
+              "label": "3",
+              "detail": "Aprende nuevas capacidades mediante seminarios y la experiencia diurna."
+            },
+            {
+              "label": "4",
+              "detail": "Completa los puzles que mejoran estadísticas antes de las batallas de la historia."
+            },
+            {
+              "label": "5",
+              "detail": "Guarda antes de un duelo contra un Elegido; perder abre una ruta de derrota en vez de un game over."
+            },
+            {
+              "label": "6",
+              "detail": "Guarda antes de la batalla final para explorar las dos opciones victoriosas y el final de derrota."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Habilidades y estadísticas de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Planifica el crecimiento de Iroha mediante Encanto, habilidades, mejoras de puzles y equipo, los cuatro canales de progresión descritos para el juego.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-game-mechanics",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Encanto",
+              "detail": "Sube con trabajos, entrenamiento y otras actividades; no hay un límite ni un umbral de final publicados."
+            },
+            {
+              "label": "Habilidades",
+              "detail": "La experiencia diurna enseña nuevas capacidades que amplían las opciones de combate."
+            },
+            {
+              "label": "Estadísticas",
+              "detail": "Los puzles proporcionan mejoras directas de estadísticas fuera del combate."
+            },
+            {
+              "label": "Equipo",
+              "detail": "Las ganancias del trabajo compran equipo nuevo y potente; revisa la tienda antes de asumir que necesitas farmear."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de objetos de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Sigue los recursos que importan: ingresos del trabajo, compras de equipo, recompensas de puzles y las habilidades que apoyan el combate.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Equipo — el dinero de los trabajos compra equipo nuevo y potente; revísalo antes de suponer que necesitas farmear."
+            },
+            {
+              "label": "A",
+              "detail": "Dinero del trabajo — el empleo diurno financia las mejoras de equipo que sostienen las batallas contra los Elegidos."
+            },
+            {
+              "label": "B",
+              "detail": "Puzles — sus recompensas añaden mejoras de estadísticas y merecen completarse cuando estén disponibles."
+            },
+            {
+              "label": "C",
+              "detail": "Seminarios — la experiencia diurna ayuda a Iroha a aprender nuevas habilidades de combate."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía para principiantes de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Empieza con una primera partida equilibrada: explora la ciudad, sube Encanto, financia el equipo, entrena de noche y mantén guardados manuales.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ciclo diurno",
+              "detail": "Patrulla, asiste a seminarios y haz trabajos; después entrena en el Corredor de los Sueños de Ligo por la noche."
+            },
+            {
+              "label": "Encanto",
+              "detail": "Sube Encanto mediante trabajos, entrenamiento y actividades mientras crece el lado demoníaco de Iroha."
+            },
+            {
+              "label": "Guardados",
+              "detail": "Mantén guardados manuales antes de los encuentros importantes con Elegidos para conservar las rutas de victoria y derrota."
+            },
+            {
+              "label": "Galería",
+              "detail": "Deja la colección completa de la sala de recuerdos para después del primer final."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Historia y finales de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Sigue el Pacto, a los Elegidos ocultos y la elección final entre borrar la memoria, conservarla o aceptar el final de derrota.",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pacto",
+              "detail": "El trato de Lily convierte a Iroha en parte súcubo y la arrastra a la guerra indirecta entre demonios."
+            },
+            {
+              "label": "Elegidos",
+              "detail": "Iroha debe descubrir la identidad de los portadores del Pacto rivales antes de sus duelos."
+            },
+            {
+              "label": "Memoria",
+              "detail": "Ganar la batalla final abre una elección posterior a la victoria entre borrar la memoria y conservarla."
+            },
+            {
+              "label": "Derrota",
+              "detail": "Perder la batalla final lleva a ED03, el tercer evento de final."
+            },
+            {
+              "label": "Galería",
+              "detail": "La sala de recuerdos no puede desbloquearse por completo antes de terminar el juego."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Información de lanzamiento y descarga de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+          "description": "Consulta las tiendas oficiales en inglés y japonés, la edición móvil independiente, el parche y los requisitos de Windows.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Versión inglesa para Windows, aplicación 4233960, compatible con inglés, japonés y chino simplificado."
+            },
+            {
+              "label": "DLsite",
+              "detail": "Original japonés para PC RJ01241743, lanzado el 4 de mayo de 2025."
+            },
+            {
+              "label": "Móvil",
+              "detail": "Edición japonesa independiente para iOS y Android, DLsite RJ01398608."
+            },
+            {
+              "label": "Parche",
+              "detail": "Parche v1.05 de Kagura Games para propietarios; no es el juego base."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas sobre ¿Los miembros del comité disciplinario sueñan con súcubos?, su reparto, el ciclo día/noche, el combate y los finales.",
+      "items": [
+        {
+          "question": "¿Qué es «¿Los miembros del comité disciplinario sueñan con súcubos?»?",
+          "answer": "Es el RPG para adultos de Milky Way, localizado por Kagura Games. Iroha Himeno acepta un Pacto de la súcubo Lily, se convierte en parte súcubo y debe luchar contra los Elegidos en una guerra indirecta entre demonios."
+        },
+        {
+          "question": "¿Quiénes son los personajes principales de «¿Los miembros del comité disciplinario sueñan con súcubos?»?",
+          "answer": "Iroha Himeno es la protagonista, Lily es la súcubo que ofrece el Pacto, Yuno Aiba es la mejor amiga de Iroha, Nashi Okane es una estudiante acosada y los Elegidos son humanos que hicieron pactos con demonios."
+        },
+        {
+          "question": "¿Cómo funciona el ciclo día/noche en «¿Los miembros del comité disciplinario sueñan con súcubos?»?",
+          "answer": "El día se dedica a patrullas, seminarios, trabajos, puzles y exploración de la ciudad, que mejoran habilidades, dinero y Encanto. Por la noche, Iroha viaja a Ligo y entrena en el Corredor de los Sueños."
+        },
+        {
+          "question": "¿Se puede perder un combate en «¿Los miembros del comité disciplinario sueñan con súcubos?»?",
+          "answer": "Sí. Perder contra un Elegido abre una ruta de derrota en lugar de un game over estándar. En la batalla final, perder lleva a ED03, así que conserva una partida guardada antes del combate."
+        },
+        {
+          "question": "¿Dónde se puede jugar a «¿Los miembros del comité disciplinario sueñan con súcubos?»?",
+          "answer": "La versión inglesa es la aplicación 4233960 de Steam para Windows. El original japonés para PC es DLsite RJ01241743 y la edición japonesa independiente para iOS/Android es RJ01398608. No existe un APK inglés oficial ni una descarga completa gratuita."
+        },
+        {
+          "question": "¿Cuánto dura «¿Los miembros del comité disciplinario sueñan con súcubos?»?",
+          "answer": "DLsite indica unas 25 horas de juego, aunque el total varía según cuántas escenas opcionales y entradas de la sala de recuerdos recojas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar el Corredor de los Sueños?",
+      "description": "Sigue a Iroha y Lily por la historia del pacto demoníaco con notas de personajes, consejos de combate, orientación sobre la progresión y enlaces oficiales de Steam.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Ver en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "overviewDescription": "Orientación para principiantes, recorridos, controles, planificación de rutas y consejos sobre finales para la historia del pacto demoníaco de Iroha y Lily."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "overviewDescription": "Sistemas de combate, batallas contra los Elegidos, dificultad, elecciones y el ciclo del Corredor de los Sueños explicados para el RPG de pactos demoníacos."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "overviewDescription": "Perfiles de Iroha Himeno, Lily, los Elegidos y los estudiantes secundarios atrapados en la guerra indirecta de los demonios."
+  },
+  "endings": {
+    "overviewTitle": "Finales de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "overviewDescription": "Comparación de ramas y notas de ruta para los finales de memoria, verdadero, normal y derrota de la historia de Iroha."
+  },
+  "music": {
+    "overviewTitle": "Música de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "overviewDescription": "Cobertura de la banda sonora del juego, incluidos el tema principal, la música de despedida y el audio oficial disponible."
+  },
+  "reviews": {
+    "overviewTitle": "Reseñas de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "overviewDescription": "Reseñas, impresiones de jugabilidad, recepción en Steam, tráileres e información de descarga del RPG de pactos demoníacos."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "startHere": "Empieza aquí",
+    "startHereText": "¿Es tu primera vez en el Corredor de los Sueños? Aprende el ciclo día/noche, el Encanto y los fundamentos del combate antes de tu primer duelo contra un Elegido.",
+    "browseGuides": "Explorar guías",
+    "updated": "Actualizado",
+    "playOnRoblox": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de ¿Los miembros del comité disciplinario sueñan con súcubos?",
+    "about": "La wiki de ¿Los miembros del comité disciplinario sueñan con súcubos? es un centro de guías independiente creado por fans que cubre a Iroha, Lily, el Corredor de los Sueños, los sistemas de combate, las rutas de la historia y la progresión tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 · Wiki de «¿Los miembros del comité disciplinario sueñan con súcubos?». Sin afiliación con Milky Way ni Kagura Games.",
+    "description": "RPG de pactos demoníacos de Milky Way, localizado por Kagura Games. Explora Iroha, Lily, el Corredor de los Sueños, el combate y la progresión.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Comunidad de Steam",
+    "officialYoutube": "Kagura Games YouTube",
+    "vvBuilder": "Sitio oficial de Kagura Games",
+    "beginnerGuide": "Guía para principiantes",
+    "characterGuides": "Guías de personajes",
+    "mechanicsGuides": "Guías de mecánicas",
+    "endingGuides": "Guías de finales",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

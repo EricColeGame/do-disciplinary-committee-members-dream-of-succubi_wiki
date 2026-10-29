@@ -1,1 +1,481 @@
-{}
+{
+  "site": {
+    "name": "풍기위원은 서큐버스의 꿈을 꾸는가 Wiki",
+    "shortName": "풍기위원은 서큐버스의 꿈을 꾸는가",
+    "tagline": "캐릭터, 스토리, 게임플레이 및 가이드",
+    "description": "Kagura Games가 현지화한 Milky Way의 악마 계약 RPG를 다루는 팬메이드 가이드. 이로하, 릴리, 꿈의 회랑, 전투와 성장 요소를 설명합니다.",
+    "legalNotice": "비공식 팬 Wiki입니다. Milky Way 및 Kagura Games와 관련이 없습니다."
+  },
+  "nav": {
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환",
+    "guide": "가이드",
+    "mechanics": "게임 시스템",
+    "characters": "캐릭터",
+    "endings": "엔딩",
+    "music": "음악",
+    "reviews": "리뷰"
+  },
+  "home": {
+    "meta": {
+      "title": "풍기위원은 서큐버스의 꿈을 꾸는가 Wiki — 스토리, 전투 및 엔딩",
+      "description": "Milky Way의 악마 계약 RPG 완전 팬 가이드: 이로하, 릴리, 낮/밤 루프, 꿈의 회랑 전투, 매력 성장과 모든 엔딩."
+    },
+    "hero": {
+      "eyebrow": "성인 RPG · Kagura Games",
+      "title": "풍기위원은 서큐버스의 꿈을 꾸는가 Wiki",
+      "description": "『풍기위원은 서큐버스의 꿈을 꾸는가』는 Kagura Games가 현지화한 Milky Way의 악마 계약 RPG입니다. 낮에는 이로하가 도시를 순찰하고, 밤에는 반서큐버스로서 꿈의 회랑에서 싸웁니다.",
+      "stats": [
+        "DLsite 판매 3만 건 이상",
+        "DLsite 평점 4.78/5",
+        "Steam 리뷰 124개",
+        "영어판 출시: 2026년 10월 8일"
+      ],
+      "primaryCta": "Steam에서 플레이",
+      "secondaryCta": "초보자 가이드",
+      "tertiaryCta": "게임 소개",
+      "videoLabel": "Kagura Games 공식 트레일러"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하기",
+      "title": "『풍기위원은 서큐버스의 꿈을 꾸는가』 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "낮/밤 루프, 순찰, 세미나, 아르바이트, 매력, 그리고 이로하의 계약 이야기 첫걸음을 배우세요."
+        },
+        {
+          "number": "2",
+          "title": "전투 기본",
+          "description": "리고의 꿈의 회랑에서 훈련하고 스킬과 장비의 작동 방식을 익혀 선택받은 자와의 결투를 준비하세요."
+        },
+        {
+          "number": "3",
+          "title": "매력과 스킬",
+          "description": "낮 활동, 퍼즐 능력치 상승, 아르바이트로 마련한 장비를 하나의 안정적인 성장 계획으로 연결하세요."
+        },
+        {
+          "number": "4",
+          "title": "캐릭터 가이드",
+          "description": "이야기에 숨겨진 라이벌이 드러나기 전에 이로하, 릴리, 유노, 나시와 선택받은 자들을 만나 보세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "주목받는 가이드",
+      "quickLinks": [
+        "낮/밤 루프",
+        "꿈의 회랑",
+        "매력과 스킬",
+        "모든 엔딩"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "순찰, 세미나, 아르바이트, 매력, 장비와 꿈의 회랑을 균형 있게 진행하는 첫 플레이.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide"
+        },
+        {
+          "badge": "캐스트",
+          "title": "캐릭터 가이드",
+          "description": "계약 이야기에서 이로하, 릴리, 유노, 나시와 선택받은 자가 맡는 역할.",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters"
+        },
+        {
+          "badge": "전투",
+          "title": "전투 가이드",
+          "description": "꿈의 회랑 훈련, 선택받은 자와의 결투, 패배 루트와 실전 준비.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat"
+        },
+        {
+          "badge": "스토리",
+          "title": "모든 엔딩",
+          "description": "두 가지 승리 후 기억 분기와 최종전 패배 엔딩.",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings"
+        },
+        {
+          "badge": "출시",
+          "title": "출시일",
+          "description": "일본어 PC판 출시, 영어 Steam판 출시와 각 스토어 날짜.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-release-date"
+        },
+        {
+          "badge": "공식",
+          "title": "다운로드 가이드",
+          "description": "Steam, DLsite, 별도 출시된 일본어 모바일판과 공식 패치.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "『풍기위원은 서큐버스의 꿈을 꾸는가』란?",
+      "paragraphs": [
+        "『풍기위원은 서큐버스의 꿈을 꾸는가』는 Kagura Games가 영어로 현지화한 Milky Way의 성인 RPG입니다. 엄격한 풍기위원 히메노 이로하는 순찰 중 서큐버스 릴리를 만나 반서큐버스가 되는 계약을 받아들입니다.",
+        "낮에는 이로하가 도시를 순찰하고 세미나에 참석하며 아르바이트와 퍼즐로 스킬, 돈, 매력을 키웁니다. 밤에는 서큐버스 도시 리고로 가 꿈의 회랑에서 훈련한 뒤, 악마들의 대리전에서 선택받은 자들과 맞섭니다. 이 Wiki는 루프, 캐스트, 전투와 엔딩을 정리합니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Milky Way"
+        },
+        {
+          "label": "퍼블리셔",
+          "value": "Kagura Games"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Windows(Steam)"
+        },
+        {
+          "label": "장르",
+          "value": "RPG Maker MV RPG"
+        },
+        {
+          "label": "출시",
+          "value": "2026년 10월 8일"
+        },
+        {
+          "label": "플레이 시간",
+          "value": "약 25시간"
+        },
+        {
+          "label": "언어",
+          "value": "영어, 일본어, 중국어 간체"
+        }
+      ],
+      "cta": "모든 가이드 둘러보기"
+    },
+    "explore": {
+      "title": "『풍기위원은 서큐버스의 꿈을 꾸는가』 Wiki 둘러보기",
+      "description": "이로하의 첫 순찰부터 마지막 선택받은 자와의 전투까지, 캐릭터 정보, 전투 준비, 성장 시스템과 엔딩 루트와 함께 낮/밤 루프를 따라가세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 게임플레이 가이드",
+          "description": "핵심 루프를 이해하세요. 낮의 순찰, 세미나와 아르바이트가 스킬, 돈, 매력을 키우고, 밤의 꿈의 회랑 전투가 전투력을 높입니다.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "낮에 도시를 순찰하고 세미나에 참석하며 아르바이트를 합니다."
+            },
+            {
+              "label": "2",
+              "detail": "아르바이트 수입으로 더 강한 장비를 구입합니다."
+            },
+            {
+              "label": "3",
+              "detail": "이용 가능한 퍼즐을 풀어 능력치를 직접 올립니다."
+            },
+            {
+              "label": "4",
+              "detail": "밤에는 리고의 꿈의 회랑에서 훈련합니다."
+            },
+            {
+              "label": "5",
+              "detail": "숨겨진 선택받은 자를 추적하고 주요 결투 전에 저장합니다."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 캐릭터 가이드",
+          "description": "계약, 도시와 악마 대리전에서의 역할과 함께 이로하, 릴리, 유노, 나시와 선택받은 자들을 소개합니다.",
+          "href": "/characters/do-disciplinary-committee-members-dream-of-succubi-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "이로하",
+              "detail": "주인공이자 릴리와의 계약으로 반서큐버스가 되는 풍기위원."
+            },
+            {
+              "label": "릴리",
+              "detail": "악마들의 대리전을 위해 인간을 모집하는 서큐버스."
+            },
+            {
+              "label": "유노",
+              "detail": "이로하의 절친으로, 현재 부모님의 신사와 그 빚을 떠안고 있다."
+            },
+            {
+              "label": "나시",
+              "detail": "지위는 낮지만 뛰어난 학생으로, 괴롭힘의 표적이 된다."
+            },
+            {
+              "label": "선택받은 자",
+              "detail": "악마와 계약하고 이로하의 숨겨진 라이벌이 되는 인간들."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 전투 가이드",
+          "description": "스킬, 장비, 퍼즐과 매력을 전투 시스템에 연결해 꿈의 회랑 훈련과 선택받은 자와의 결투를 준비합니다.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-combat",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "꿈의 회랑에서 스케몬과 싸우며 스킬, 아이템과 장비를 익힙니다."
+            },
+            {
+              "label": "2",
+              "detail": "낮 아르바이트로 번 돈을 써서 장비를 최신 상태로 유지합니다."
+            },
+            {
+              "label": "3",
+              "detail": "세미나와 낮 경험으로 새로운 능력을 배웁니다."
+            },
+            {
+              "label": "4",
+              "detail": "스토리 전투 전에 능력치 강화 퍼즐을 완료합니다."
+            },
+            {
+              "label": "5",
+              "detail": "선택받은 자와의 결투 전에 저장하세요. 패배하면 게임 오버 대신 패배 루트가 열립니다."
+            },
+            {
+              "label": "6",
+              "detail": "최종전 전에 저장해 두 승리 선택지와 패배 엔딩을 모두 확인합니다."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 스킬과 능력치",
+          "description": "매력, 스킬, 퍼즐 강화와 장비라는 네 가지 성장 경로를 통해 이로하의 성장을 계획합니다.",
+          "href": "/mechanics/do-disciplinary-committee-members-dream-of-succubi-game-mechanics",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "매력",
+              "detail": "아르바이트, 훈련과 다른 활동으로 올라가며 공개된 상한이나 엔딩 기준은 없습니다."
+            },
+            {
+              "label": "스킬",
+              "detail": "낮 경험으로 새로운 능력을 배워 전투 선택지가 넓어집니다."
+            },
+            {
+              "label": "능력치",
+              "detail": "퍼즐은 전투 밖에서 능력치를 직접 올려 줍니다."
+            },
+            {
+              "label": "장비",
+              "detail": "아르바이트 수입으로 강력한 새 장비를 삽니다. 반복 파밍 전에 상점을 확인하세요."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 아이템 가이드",
+          "description": "아르바이트 수입, 장비 구매, 퍼즐 보상과 전투를 뒷받침하는 스킬 등 중요한 자원을 추적합니다.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "장비 — 아르바이트로 번 돈으로 강력한 새 장비를 삽니다. 파밍이 필요하다고 단정하기 전에 상점을 확인하세요."
+            },
+            {
+              "label": "A",
+              "detail": "아르바이트 현금 — 낮의 일이 선택받은 자와의 전투를 뒷받침하는 장비 강화 자금이 됩니다."
+            },
+            {
+              "label": "B",
+              "detail": "퍼즐 — 보상으로 능력치가 올라가므로 가능할 때 완료할 가치가 있습니다."
+            },
+            {
+              "label": "C",
+              "detail": "세미나 — 낮 경험이 이로하가 새 전투 스킬을 배우는 데 도움을 줍니다."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 초보자 가이드",
+          "description": "도시를 탐험하고 매력을 키우며 장비 자금을 마련하고 밤에 훈련하며 수동 저장을 챙기는 균형형 첫 플레이.",
+          "href": "/guide/do-disciplinary-committee-members-dream-of-succubi-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "낮 루프",
+              "detail": "순찰하고 세미나와 아르바이트를 한 뒤, 밤에 리고의 꿈의 회랑에서 훈련합니다."
+            },
+            {
+              "label": "매력",
+              "detail": "이로하의 악마적 측면이 자라는 가운데 아르바이트, 훈련과 활동으로 매력을 올립니다."
+            },
+            {
+              "label": "저장",
+              "detail": "주요 선택받은 자 조우 전에 수동 저장해 승리와 패배 루트를 모두 남깁니다."
+            },
+            {
+              "label": "갤러리",
+              "detail": "추억의 방 완전 수집은 첫 클리어 이후로 미룹니다."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 스토리와 엔딩",
+          "description": "계약, 숨겨진 선택받은 자, 기억 소거·기억 유지·패배 엔딩 사이의 최종 선택을 따라갑니다.",
+          "href": "/endings/do-disciplinary-committee-members-dream-of-succubi-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "계약",
+              "detail": "릴리와의 거래로 이로하는 반서큐버스가 되어 악마들의 대리전에 끌려 들어갑니다."
+            },
+            {
+              "label": "선택받은 자",
+              "detail": "이로하는 결투 전에 적대하는 계약자들의 정체를 밝혀내야 합니다."
+            },
+            {
+              "label": "기억",
+              "detail": "최종전에서 승리하면 기억 소거와 기억 유지 중 하나를 고르는 선택이 열립니다."
+            },
+            {
+              "label": "패배",
+              "detail": "최종전에서 패배하면 세 번째 엔딩 이벤트인 ED03으로 이어집니다."
+            },
+            {
+              "label": "갤러리",
+              "detail": "추억의 방은 게임을 클리어하기 전에는 완전히 해금할 수 없습니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "『풍기위원은 서큐버스의 꿈을 꾸는가』 출시 및 다운로드 정보",
+          "description": "공식 영어·일본어 스토어, 별도 모바일판, 패치와 Windows 시스템 요구 사항을 확인합니다.",
+          "href": "/reviews/do-disciplinary-committee-members-dream-of-succubi-download",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "영어 Windows판, 앱 4233960. 영어, 일본어, 중국어 간체를 지원합니다."
+            },
+            {
+              "label": "DLsite",
+              "detail": "일본어 PC 원작 RJ01241743, 2025년 5월 4일 출시."
+            },
+            {
+              "label": "모바일",
+              "detail": "별도 출시된 일본어 iOS 및 Android판, DLsite RJ01398608."
+            },
+            {
+              "label": "패치",
+              "detail": "구매자용 Kagura Games v1.05 패치이며 본편 게임이 아닙니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "『풍기위원은 서큐버스의 꿈을 꾸는가』의 캐스트, 낮/밤 루프, 전투와 엔딩에 대한 간단한 답변.",
+      "items": [
+        {
+          "question": "『풍기위원은 서큐버스의 꿈을 꾸는가』는 어떤 게임인가요?",
+          "answer": "Kagura Games가 현지화한 Milky Way의 성인 RPG입니다. 히메노 이로하는 서큐버스 릴리로부터 계약을 받아 반서큐버스가 되고, 악마들의 대리전에서 선택받은 자들과 싸워야 합니다."
+        },
+        {
+          "question": "주요 캐릭터는 누구인가요?",
+          "answer": "주인공은 히메노 이로하, 서큐버스 계약자인 릴리, 이로하의 절친 유노 아이바, 괴롭힘을 당하는 학생 나시 오카네, 그리고 악마와 계약한 인간인 선택받은 자들입니다."
+        },
+        {
+          "question": "낮/밤 루프는 어떻게 진행되나요?",
+          "answer": "낮에는 순찰, 세미나, 아르바이트, 퍼즐과 도시 탐험으로 스킬, 돈과 매력을 키웁니다. 밤에는 이로하가 리고로 가 꿈의 회랑에서 훈련합니다."
+        },
+        {
+          "question": "전투에서 패배할 수 있나요?",
+          "answer": "네. 선택받은 자에게 지면 일반 게임 오버 대신 패배 루트가 열립니다. 최종전에서 지면 ED03으로 이어지므로 전투 전에 저장하세요."
+        },
+        {
+          "question": "어디에서 플레이할 수 있나요?",
+          "answer": "영어판은 Windows용 Steam 앱 4233960입니다. 일본어 PC 원작은 DLsite RJ01241743이며, 별도 일본어 iOS/Android판은 RJ01398608입니다. 공식 영어 APK나 무료 전체 다운로드는 없습니다."
+        },
+        {
+          "question": "플레이 시간은 얼마나 되나요?",
+          "answer": "DLsite에는 약 25시간으로 표시되어 있으며, 선택 장면과 추억의 방 항목을 얼마나 수집하느냐에 따라 달라집니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "꿈의 회랑을 완전히 익힐 준비가 되셨나요?",
+      "description": "캐릭터 정보, 전투 팁, 성장 조언과 공식 Steam 링크와 함께 이로하와 릴리의 악마 계약 이야기를 따라가세요.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Steam에서 보기"
+    }
+  },
+  "guide": {
+    "overviewTitle": "『풍기위원은 서큐버스의 꿈을 꾸는가』 가이드",
+    "overviewDescription": "이로하와 릴리의 악마 계약 이야기를 위한 초보자 안내, 공략, 조작법, 루트 계획과 엔딩 조언."
+  },
+  "mechanics": {
+    "overviewTitle": "『풍기위원은 서큐버스의 꿈을 꾸는가』 게임 시스템",
+    "overviewDescription": "악마 계약 RPG의 전투 시스템, 선택받은 자와의 전투, 난이도, 선택과 꿈의 회랑 루프를 설명합니다."
+  },
+  "characters": {
+    "overviewTitle": "『풍기위원은 서큐버스의 꿈을 꾸는가』 캐릭터",
+    "overviewDescription": "히메노 이로하, 릴리, 선택받은 자와 악마들의 대리전에 휘말린 조연 학생들의 프로필."
+  },
+  "endings": {
+    "overviewTitle": "『풍기위원은 서큐버스의 꿈을 꾸는가』 엔딩",
+    "overviewDescription": "이로하의 이야기에 있는 기억, 트루, 노멀, 패배 엔딩의 분기 비교와 루트 정보."
+  },
+  "music": {
+    "overviewTitle": "『풍기위원은 서큐버스의 꿈을 꾸는가』 음악",
+    "overviewDescription": "타이틀 테마, 작별 음악과 공개된 공식 음원을 포함한 게임 사운드트랙 소개."
+  },
+  "reviews": {
+    "overviewTitle": "『풍기위원은 서큐버스의 꿈을 꾸는가』 리뷰",
+    "overviewDescription": "리뷰, 게임플레이 인상, Steam 반응, 트레일러와 다운로드 정보."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki 내비게이션",
+    "startHere": "여기서 시작하기",
+    "startHereText": "꿈의 회랑이 처음인가요? 첫 선택받은 자와의 결투 전에 낮/밤 루프, 매력과 전투 기본을 배우세요.",
+    "browseGuides": "가이드 둘러보기",
+    "updated": "업데이트",
+    "playOnRoblox": "Steam에서 플레이",
+    "inThisSection": "이 섹션",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 읽기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "풍기위원은 서큐버스의 꿈을 꾸는가 Wiki",
+    "about": "『풍기위원은 서큐버스의 꿈을 꾸는가』 Wiki는 이로하, 릴리, 꿈의 회랑, 전투 시스템, 스토리 루트와 성장 요소를 다루는 독립 팬메이드 가이드 허브입니다. 신규 플레이어와 숙련 플레이어 모두에게 도움이 됩니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 『풍기위원은 서큐버스의 꿈을 꾸는가』 Wiki. Milky Way 및 Kagura Games와 관련이 없습니다.",
+    "description": "Kagura Games가 현지화한 Milky Way의 악마 계약 RPG. 이로하, 릴리, 꿈의 회랑, 전투와 성장 요소를 둘러보세요.",
+    "playGame": "Steam에서 플레이",
+    "officialDiscord": "Steam 커뮤니티",
+    "officialYoutube": "Kagura Games YouTube",
+    "vvBuilder": "Kagura Games 공식 사이트",
+    "beginnerGuide": "초보자 가이드",
+    "characterGuides": "캐릭터 가이드",
+    "mechanicsGuides": "게임 시스템 가이드",
+    "endingGuides": "엔딩 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "서비스 이용약관"
+  }
+}
