@@ -1,3 +1,16 @@
-export const NAVIGATION_CONFIG: { key: string; path: string; isContentType: boolean }[] = [];
+interface NavigationItem {
+  key: string;
+  path: `/${string}`;
+  isContentType: boolean;
+}
 
-export const CONTENT_TYPES: string[] = [];
+export const NAVIGATION_CONFIG = [
+  { key: "guide", path: "/guide", isContentType: true },
+  { key: "mechanics", path: "/mechanics", isContentType: true },
+  { key: "characters", path: "/characters", isContentType: true },
+  { key: "endings", path: "/endings", isContentType: true },
+  { key: "music", path: "/music", isContentType: true },
+  { key: "reviews", path: "/reviews", isContentType: true },
+] satisfies readonly NavigationItem[];
+
+export const CONTENT_TYPES: string[] = NAVIGATION_CONFIG.filter((item) => item.isContentType).map((item) => item.key);

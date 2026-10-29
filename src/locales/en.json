@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "endings": "Endings",
+    "music": "Music",
+    "reviews": "Reviews"
   },
   "home": {
     "meta": {
@@ -411,12 +417,36 @@
       "secondary": "View on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Do Disciplinary Committee Members Dream of Succubi Guides",
+    "overviewDescription": "Beginner guidance, walkthroughs, controls, route planning and ending advice for Iroha and Lily's demon-pact story."
+  },
+  "mechanics": {
+    "overviewTitle": "Do Disciplinary Committee Members Dream of Succubi Mechanics",
+    "overviewDescription": "Combat systems, Chosen battles, difficulty, choices and the Dream Corridor loop explained for the demon-pact RPG."
+  },
+  "characters": {
+    "overviewTitle": "Do Disciplinary Committee Members Dream of Succubi Characters",
+    "overviewDescription": "Cast profiles for Iroha Himeno, Lily, the Chosen and the supporting students caught in the demons' proxy war."
+  },
+  "endings": {
+    "overviewTitle": "Do Disciplinary Committee Members Dream of Succubi Endings",
+    "overviewDescription": "Branch comparisons and route notes for the memory, true, normal and defeat endings of Iroha's story."
+  },
+  "music": {
+    "overviewTitle": "Do Disciplinary Committee Members Dream of Succubi Music",
+    "overviewDescription": "Soundtrack coverage for the game, including the title theme, farewell music and available official audio."
+  },
+  "reviews": {
+    "overviewTitle": "Do Disciplinary Committee Members Dream of Succubi Reviews",
+    "overviewDescription": "Review coverage, gameplay impressions, Steam reception, trailers and download information for the demon-pact RPG."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "startHere": "Start Here",
+    "startHereText": "New to the Dream Corridor? Learn the day/night loop, Charm and combat basics before your first Chosen duel.",
+    "browseGuides": "Browse Guides",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -442,9 +472,9 @@
     "officialYoutube": "Kagura Games YouTube",
     "vvBuilder": "Kagura Games Official Site",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Character Guides",
+    "mechanicsGuides": "Mechanics Guides",
+    "endingGuides": "Ending Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
